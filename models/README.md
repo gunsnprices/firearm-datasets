@@ -29,7 +29,7 @@ Example rows:
 | `price_median_usd` | Median of the lowest in-stock price of each listing |
 | `model_url` | GunsNPrices page comparing prices for this model, if one exists |
 | `family_url` | GunsNPrices page for the whole family, if one exists |
-| `brand_hub_url` | GunsNPrices "All <Brand> Models" guide |
+| `brand_hub_url` | GunsNPrices "All [Brand] Models" guide |
 
 ### `brands.csv`
 
