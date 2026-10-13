@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "GunsNPrices firearm datasets: calibers and models"
+type: dataset
+authors:
+  - name: "GunsNPrices"
+    website: "https://gunsnprices.com"
+    email: "app@gunsnprices.com"
+abstract: "Open reference data about guns and ammunition sold by US online retailers: 293 calibers with retailer spellings and 50 brands, 1,192 model families and 4,037 models with listing counts and price levels. Snapshot 2026-10-12 from the GunsNPrices catalog of 63,930 listings."
+repository-code: "https://github.com/gunsnprices/firearm-datasets"
+url: "https://gunsnprices.com"
+license: CC-BY-4.0
+version: "2026.10.12"
+date-released: "2026-10-12"
+keywords:
+  - firearms
+  - ammunition
+  - caliber
+  - dataset
+  - e-commerce
